@@ -1,0 +1,15 @@
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\bin\Debug\net7.0\Task 47.exe
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\bin\Debug\net7.0\Task 47.deps.json
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\bin\Debug\net7.0\Task 47.runtimeconfig.json
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\bin\Debug\net7.0\Task 47.dll
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\bin\Debug\net7.0\Task 47.pdb
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\obj\Debug\net7.0\Task 47.csproj.AssemblyReference.cache
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\obj\Debug\net7.0\Task 47.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\obj\Debug\net7.0\Task 47.AssemblyInfoInputs.cache
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\obj\Debug\net7.0\Task 47.AssemblyInfo.cs
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\obj\Debug\net7.0\Task 47.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\obj\Debug\net7.0\Task 47.dll
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\obj\Debug\net7.0\refint\Task 47.dll
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\obj\Debug\net7.0\Task 47.pdb
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\obj\Debug\net7.0\Task 47.genruntimeconfig.cache
+D:\GEEKBRAINS_HOMEWORK\Lesson_7\Task 47\obj\Debug\net7.0\ref\Task 47.dll
